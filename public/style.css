@@ -218,11 +218,15 @@ a {
       margin-right: 8px;
    }
    .burger   {
-      top: 5px !important;
+      top: 10px !important;
       left: 8px !important;
       width: 20px !important;
       height: 40px  !important;
       
+    }
+    .main-nav{
+      padding-top: 17px;
+      padding-bottom: 17px;
     }
  }
  @media (max-width: 330px) {
@@ -238,7 +242,7 @@ a {
       margin-right: 8px;
    }
    .burger   {
-      top: 4px !important;
+      top: 8px !important;
       left: 7px !important;
       width: 15px !important;
       height: 37px  !important;
